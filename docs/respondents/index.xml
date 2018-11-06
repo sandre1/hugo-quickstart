@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Respondents on My New Hugo Site</title>
-    <link>http://example.org/respondents/</link>
+    <link>https://sandre1.github.io/hugo-quickstart/respondents/</link>
     <description>Recent content in Respondents on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Nov 2018 22:29:56 +0200</lastBuildDate>
     
-	<atom:link href="http://example.org/respondents/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sandre1.github.io/hugo-quickstart/respondents/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Import</title>
-      <link>http://example.org/respondents/import/</link>
+      <link>https://sandre1.github.io/hugo-quickstart/respondents/import/</link>
       <pubDate>Tue, 06 Nov 2018 22:29:47 +0200</pubDate>
       
-      <guid>http://example.org/respondents/import/</guid>
+      <guid>https://sandre1.github.io/hugo-quickstart/respondents/import/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Respondent_list</title>
-      <link>http://example.org/respondents/respondent_list/</link>
+      <link>https://sandre1.github.io/hugo-quickstart/respondents/respondent_list/</link>
       <pubDate>Tue, 06 Nov 2018 22:29:21 +0200</pubDate>
       
-      <guid>http://example.org/respondents/respondent_list/</guid>
+      <guid>https://sandre1.github.io/hugo-quickstart/respondents/respondent_list/</guid>
       <description></description>
     </item>
     
